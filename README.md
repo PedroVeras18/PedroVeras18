@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PedroVeras18
+- 👀 I do software engineering
+- 🌱 I'm studying Javascript, HTML e CSS.
