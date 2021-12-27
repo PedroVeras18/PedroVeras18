@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PedroVeras18
-- 👀 I do software engineering
+- 👀 I do  Engenharia de Software na Universidade Evangélica de Goiás.
 - 🌱 I'm studying Javascript, HTML e CSS.
