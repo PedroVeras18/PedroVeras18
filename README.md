@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PedroVeras18
+- 👋 Olá, eu sou o PedroVeras
 - 👀 I do  Engenharia de Software na Universidade Evangélica de Goiás.
-- 🌱 I'm studying Javascript, HTML e CSS.
+- 🌱 Estou estudando Javascript, HTML e CSS.
