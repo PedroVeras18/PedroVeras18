@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou o PedroVeras
-- 👀 I do  Engenharia de Software na Universidade Evangélica de Goiás.
+- 👀 Eu curso Engenharia de Software na Universidade Evangélica de Goiás.
 - 🌱 Estou estudando Javascript, HTML e CSS.
