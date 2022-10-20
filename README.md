@@ -1,3 +1,3 @@
 - 👋 Olá, eu sou o PedroVeras
-- 👀 Eu curso Engenharia de Software na Universidade Evangélica de Goiás.
-- 🌱 Desenvolvedor Front-end | React | Javascript | HTML | CSS.
+- :technologist: Eu curso Engenharia de Software na Universidade Evangélica de Goiás.
+- :computer: Desenvolvedor Front-end | React | Javascript | HTML | CSS.
