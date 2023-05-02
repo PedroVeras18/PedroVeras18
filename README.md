@@ -1,3 +1,3 @@
-- :books: Software Engineering Student.
 - :computer: React | React Native | Node.
-- 👨‍💻: Software Developer at Kingspan Isoeste
+- :books: Software Engineering Student.
+- 👨‍💻: Software Developer at Kingspan Isoeste.
