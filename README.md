@@ -1,2 +1,3 @@
-- :man_student: Curso Engenharia de Software na Universidade Evangélica de Goiás.
-- :computer: Desenvolvedor Front-end | React | React Native.
+- :books: Software Engineering Student.
+- 👨‍💻: Software Developer at Kingspan Isoeste
+- :computer: | React | React Native | Node.
