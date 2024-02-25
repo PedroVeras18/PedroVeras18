@@ -1,7 +1,7 @@
 ## Hello, my name is Pedro Veras.
 
 - :books: Software Engineering Student.
-- 👨‍💻 Software Developer at Kingspan Isoeste.
+- 👨‍💻 Full Stack Developer at Kingspan.
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVeras18&show_icons=true&theme=dracula&count_private=true)
 
