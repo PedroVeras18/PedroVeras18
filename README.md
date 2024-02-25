@@ -1,4 +1,5 @@
-- :computer: ReactJs | NextJS | React Native | Node.
+## Hello, my name is Pedro Veras.
+
 - :books: Software Engineering Student.
 - 👨‍💻 Software Developer at Kingspan Isoeste.
 
